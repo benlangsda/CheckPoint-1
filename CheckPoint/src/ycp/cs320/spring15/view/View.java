@@ -13,6 +13,7 @@ public class View {
 		Scanner sc = new Scanner(System.in);
 		String user;
 		String pass;
+		System.out.println("Welcome to CheckPoint");
 		System.out.println("Enter in your Username");
 		user = sc.nextLine();
 		System.out.println("Enter in your Password");
