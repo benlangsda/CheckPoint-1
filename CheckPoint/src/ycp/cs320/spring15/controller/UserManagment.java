@@ -7,7 +7,7 @@ import ycp.cs320.spring15.model.User;
 public class UserManagment {
 	
 	/*
-	 * checks if accessor has admin privileges, creates new User if there are none with uName as a username, false if failed, true if succeeded
+	 * checks if accessor    has admin privileges, creates new User if there are none with uName as a username, false if failed, true if succeeded
 	 */
 	boolean addUser (String uName, String pWord, User accessor){
 		//TODO Implement

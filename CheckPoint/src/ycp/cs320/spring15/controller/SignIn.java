@@ -7,7 +7,7 @@ import ycp.cs320.spring15.model.User;
  */
 public class SignIn {
 	
-	/* returns null if none match
+	/* returns null if none    match
 	 * returns  a user object with the specified username and password
 	 */
 	User signIn (String uName, String pWord){
